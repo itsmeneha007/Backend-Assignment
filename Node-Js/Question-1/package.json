@@ -1,0 +1,13 @@
+{
+  "name": "question-1",
+  "version": "1.0.0",
+  "description": "Terminal Based Task Manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
